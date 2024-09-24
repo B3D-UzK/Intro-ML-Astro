@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Exploring Machine Learning in Astrophysics: An Introduction",
+    "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "26 and 27 September 2024\n \n\n\n\nGoogle account (to be able to use “Google colab”, where Python 3 and Jupyter Notebooks are available without having to install or run anything locally)"
+    "text": "🗓️ 26th & 27th September 2024\n \n\n\n\n\nA Google account (to access Google Colab, where Python 3 and Jupyter Notebooks are available without any local installation)."
   },
   {
     "objectID": "about.html",
@@ -460,5 +460,12 @@
     "title": "Intro ML in Astrophysics",
     "section": "Contact",
     "text": "Contact\nMonica Valencia-Schneider\nvs@uni-koeln.de\nPMO | CWS | HPC&V | C3RDM | SFB1601 | B3D\nRegional Computing Centre – RRZK\nUniversity of Cologne\nWeyertal 121, Off. 1.11 D-50931\nCologne, Germany\nTel.: +49-(0)221-470-89545\nURL: http://rrzk.uni-koeln.de"
+  },
+  {
+    "objectID": "index.html#exploring-machine-learning-in-astrophysics-an-introduction",
+    "href": "index.html#exploring-machine-learning-in-astrophysics-an-introduction",
+    "title": "Intro ML in Astrophysics",
+    "section": "",
+    "text": "🗓️ 26th & 27th September 2024\n \n\n\n\n\nA Google account (to access Google Colab, where Python 3 and Jupyter Notebooks are available without any local installation)."
   }
 ]
