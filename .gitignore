@@ -1,0 +1,27 @@
+# Quarto files to ignore
+*.qmd
+
+# R project files
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+
+# YAML configuration files
+*.yml
+
+# Lock files
+*.lock
+
+# Common OS-generated files
+.DS_Store
+Thumbs.db
+
+# Quarto and related output directories (uncomment if needed)
+# _site/
+# _freeze/
+# _files/
+
+# Quarto cache
+.quarto/
+.Rproj.user/
