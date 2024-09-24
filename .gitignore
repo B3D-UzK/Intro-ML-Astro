@@ -25,3 +25,4 @@ Thumbs.db
 # Quarto cache
 .quarto/
 .Rproj.user/
+/.quarto/
