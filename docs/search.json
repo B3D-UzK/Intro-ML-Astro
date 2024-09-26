@@ -522,7 +522,7 @@
     "href": "handon1.html#accessing-the-pca_cvcs-notebook",
     "title": "Intro ML in Astrophysics",
     "section": "Accessing the PCA_CVCs Notebook",
-    "text": "Accessing the PCA_CVCs Notebook\n\nOpen the PCA_CVCs Notebook:\nClick on the following link to access the PCA_CVCs (Principal Component Analysis - CVCs) notebook:\nPCA_CVCs Google Colab Notebook\nMake a Copy:\nSimilar to the MCMC notebook, go to File &gt; Save a copy in Drive to create your editable version.\ndataset:\ndataset\npassword:\nupload dataset into google colab\n\nDirectly upload:\n\n\n\nUsing function in google.colab\n\nfrom google.colab import files\nuploaded = files.upload() #upload zip file only"
+    "text": "Accessing the PCA_CVCs Notebook\n\nOpen the PCA_CVCs Notebook:\nClick on the following link to access the PCA_CVCs (Principal Component Analysis - CVCs) notebook:\nPCA_CVCs Google Colab Notebook\nMake a Copy:\nSimilar to the MCMC notebook, go to File &gt; Save a copy in Drive to create your editable version.\ndataset:\ndataset\npassword: 123\nupload dataset into google colab\n\nDirectly upload:\n\n\n\nUsing function in google.colab\n\nfrom google.colab import files\nuploaded = files.upload() #upload zip file only"
   },
   {
     "objectID": "feedback.html",
