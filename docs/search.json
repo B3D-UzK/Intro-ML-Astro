@@ -4,7 +4,11 @@
     "href": "index.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "🗓️ 26th & 27th September 2024\n \n\n\n\n\nA Google account (to access Google Colab, where Python 3 and Jupyter Notebooks are available without any local installation)."
+    "text": "🗓️ 26th & 27th September 2024\n \n\n\n\n\nA Google account (to access Google Colab, where Python 3 and Jupyter Notebooks are available without any local installation).",
+    "crumbs": [
+      "Home",
+      "Timetable"
+    ]
   },
   {
     "objectID": "about.html",
@@ -403,35 +407,55 @@
     "href": "speaker.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Veselina Kalinova - Forschungszentrum Jülich (FZJ)\nTobias Buck - AstroAI-Lab University of Heidelberg\nAndreas Lintermann - IAS Forschungszentrum Jülich (FZJ)\nLoris Berthelot - Centre National de la Recherche Scientifique (CNRS)\nKevin Schmidt - TU Dortmund (B3D)\nDat Hoang - Max Planck Institute for Radio Astronomy (MPIfR)\nKartik Neralwar – Max Planck Institute for Radio Astronomy (MPIfR)"
+    "text": "Veselina Kalinova - Forschungszentrum Jülich (FZJ)\nTobias Buck - AstroAI-Lab University of Heidelberg\nAndreas Lintermann - IAS Forschungszentrum Jülich (FZJ)\nLoris Berthelot - Centre National de la Recherche Scientifique (CNRS)\nKevin Schmidt - TU Dortmund (B3D)\nDat Hoang - Max Planck Institute for Radio Astronomy (MPIfR)\nKartik Neralwar – Max Planck Institute for Radio Astronomy (MPIfR)",
+    "crumbs": [
+      "Home",
+      "Speakers"
+    ]
   },
   {
     "objectID": "speaker.html#speakers",
     "href": "speaker.html#speakers",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Veselina Kalinova - Forschungszentrum Jülich (FZJ)\nTobias Buck - AstroAI-Lab University of Heidelberg\nAndreas Lintermann - IAS Forschungszentrum Jülich (FZJ)\nLoris Berthelot - Centre National de la Recherche Scientifique (CNRS)\nKevin Schmidt - TU Dortmund (B3D)\nDat Hoang - Max Planck Institute for Radio Astronomy (MPIfR)\nKartik Neralwar – Max Planck Institute for Radio Astronomy (MPIfR)"
+    "text": "Veselina Kalinova - Forschungszentrum Jülich (FZJ)\nTobias Buck - AstroAI-Lab University of Heidelberg\nAndreas Lintermann - IAS Forschungszentrum Jülich (FZJ)\nLoris Berthelot - Centre National de la Recherche Scientifique (CNRS)\nKevin Schmidt - TU Dortmund (B3D)\nDat Hoang - Max Planck Institute for Radio Astronomy (MPIfR)\nKartik Neralwar – Max Planck Institute for Radio Astronomy (MPIfR)",
+    "crumbs": [
+      "Home",
+      "Speakers"
+    ]
   },
   {
     "objectID": "location.html",
     "href": "location.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Regional Computing Center (RRZK) University of Cologne\nBuilding N. 133\nWeyertal 121, 50931\nConference Room 1.03:\nIn campusgis2\nIn google maps\n\n\nThe surrounding area to the RRZK offer very few to none parking facilities. We recommend to use public transport.\nBy Tram: Tramline 9. Tram stop “Weyertal”. Walk ~6min along Weyertal Street towards North.\nBy Train/Railway: Train station “Köln Süd”. Walk ~10 min along Zülpicher Street direction West following the line of the Tram 9 until you meet the Weyertal Street. There, turn right to walk along Weyertal Street for ~ 6min in direction North.\nAlternatively, you can walk ~5min along Zülpicher Street direction West following the line of the Tram 9, until the Tram stop “Universität”. Then, take the diagonal street Kerpener Str. for ~5min until you reach Weyertal Street, and there, turn right to walk along Weyertal Street for ~4min in direction North.\nMore information"
+    "text": "Regional Computing Center (RRZK) University of Cologne\nBuilding N. 133\nWeyertal 121, 50931\nConference Room 1.03:\nIn campusgis2\nIn google maps\n\n\nThe surrounding area to the RRZK offer very few to none parking facilities. We recommend to use public transport.\nBy Tram: Tramline 9. Tram stop “Weyertal”. Walk ~6min along Weyertal Street towards North.\nBy Train/Railway: Train station “Köln Süd”. Walk ~10 min along Zülpicher Street direction West following the line of the Tram 9 until you meet the Weyertal Street. There, turn right to walk along Weyertal Street for ~ 6min in direction North.\nAlternatively, you can walk ~5min along Zülpicher Street direction West following the line of the Tram 9, until the Tram stop “Universität”. Then, take the diagonal street Kerpener Str. for ~5min until you reach Weyertal Street, and there, turn right to walk along Weyertal Street for ~4min in direction North.\nMore information",
+    "crumbs": [
+      "Home",
+      "Location"
+    ]
   },
   {
     "objectID": "location.html#location",
     "href": "location.html#location",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Regional Computing Center (RRZK) University of Cologne\nBuilding N. 133\nWeyertal 121, 50931\nConference Room 1.03:\nIn campusgis2\nIn google maps\n\n\nThe surrounding area to the RRZK offer very few to none parking facilities. We recommend to use public transport.\nBy Tram: Tramline 9. Tram stop “Weyertal”. Walk ~6min along Weyertal Street towards North.\nBy Train/Railway: Train station “Köln Süd”. Walk ~10 min along Zülpicher Street direction West following the line of the Tram 9 until you meet the Weyertal Street. There, turn right to walk along Weyertal Street for ~ 6min in direction North.\nAlternatively, you can walk ~5min along Zülpicher Street direction West following the line of the Tram 9, until the Tram stop “Universität”. Then, take the diagonal street Kerpener Str. for ~5min until you reach Weyertal Street, and there, turn right to walk along Weyertal Street for ~4min in direction North.\nMore information"
+    "text": "Regional Computing Center (RRZK) University of Cologne\nBuilding N. 133\nWeyertal 121, 50931\nConference Room 1.03:\nIn campusgis2\nIn google maps\n\n\nThe surrounding area to the RRZK offer very few to none parking facilities. We recommend to use public transport.\nBy Tram: Tramline 9. Tram stop “Weyertal”. Walk ~6min along Weyertal Street towards North.\nBy Train/Railway: Train station “Köln Süd”. Walk ~10 min along Zülpicher Street direction West following the line of the Tram 9 until you meet the Weyertal Street. There, turn right to walk along Weyertal Street for ~ 6min in direction North.\nAlternatively, you can walk ~5min along Zülpicher Street direction West following the line of the Tram 9, until the Tram stop “Universität”. Then, take the diagonal street Kerpener Str. for ~5min until you reach Weyertal Street, and there, turn right to walk along Weyertal Street for ~4min in direction North.\nMore information",
+    "crumbs": [
+      "Home",
+      "Location"
+    ]
   },
   {
     "objectID": "amenities.html",
     "href": "amenities.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "The workshop organizers take care of the catering for the refreshments and Coffee breaks."
+    "text": "The workshop organizers take care of the catering for the refreshments and Coffee breaks.",
+    "crumbs": [
+      "Home",
+      "Amenities"
+    ]
   },
   {
     "objectID": "amenities.html#amenities",
@@ -445,56 +469,88 @@
     "href": "Contact.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Tim-Eric Rathjen - PH1 & RRZK/ITCC\nLiem Ngo - PH1\nKevin Schmidt - U.Dortmund\nDat Hoang - MPIfR\nKartik Neralwar - MPIfR\nMonica Valencia-S. - RRZK/ITCC"
+    "text": "Tim-Eric Rathjen - PH1 & RRZK/ITCC\nLiem Ngo - PH1\nKevin Schmidt - U.Dortmund\nDat Hoang - MPIfR\nKartik Neralwar - MPIfR\nMonica Valencia-S. - RRZK/ITCC",
+    "crumbs": [
+      "Home",
+      "Contact"
+    ]
   },
   {
     "objectID": "Contact.html#organising-committee",
     "href": "Contact.html#organising-committee",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Tim-Eric Rathjen - PH1 & RRZK/ITCC\nLiem Ngo - PH1\nKevin Schmidt - U.Dortmund\nDat Hoang - MPIfR\nKartik Neralwar - MPIfR\nMonica Valencia-S. - RRZK/ITCC"
+    "text": "Tim-Eric Rathjen - PH1 & RRZK/ITCC\nLiem Ngo - PH1\nKevin Schmidt - U.Dortmund\nDat Hoang - MPIfR\nKartik Neralwar - MPIfR\nMonica Valencia-S. - RRZK/ITCC",
+    "crumbs": [
+      "Home",
+      "Contact"
+    ]
   },
   {
     "objectID": "Contact.html#contact",
     "href": "Contact.html#contact",
     "title": "Intro ML in Astrophysics",
     "section": "Contact",
-    "text": "Contact\nMonica Valencia-Schneider\nvs@uni-koeln.de\nPMO | CWS | HPC&V | C3RDM | SFB1601 | B3D\nRegional Computing Centre – RRZK\nUniversity of Cologne\nWeyertal 121, Off. 1.11 D-50931\nCologne, Germany\nTel.: +49-(0)221-470-89545\nURL: http://rrzk.uni-koeln.de"
+    "text": "Contact\nMonica Valencia-Schneider\nvs@uni-koeln.de\nPMO | CWS | HPC&V | C3RDM | SFB1601 | B3D\nRegional Computing Centre – RRZK\nUniversity of Cologne\nWeyertal 121, Off. 1.11 D-50931\nCologne, Germany\nTel.: +49-(0)221-470-89545\nURL: http://rrzk.uni-koeln.de",
+    "crumbs": [
+      "Home",
+      "Contact"
+    ]
   },
   {
     "objectID": "index.html#exploring-machine-learning-in-astrophysics-an-introduction",
     "href": "index.html#exploring-machine-learning-in-astrophysics-an-introduction",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "🗓️ 26th & 27th September 2024\n \n\n\n\n\nA Google account (to access Google Colab, where Python 3 and Jupyter Notebooks are available without any local installation)."
+    "text": "🗓️ 26th & 27th September 2024\n \n\n\n\n\nA Google account (to access Google Colab, where Python 3 and Jupyter Notebooks are available without any local installation).",
+    "crumbs": [
+      "Home",
+      "Timetable"
+    ]
   },
   {
     "objectID": "amenities.html#coffee-break",
     "href": "amenities.html#coffee-break",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "The workshop organizers take care of the catering for the refreshments and Coffee breaks."
+    "text": "The workshop organizers take care of the catering for the refreshments and Coffee breaks.",
+    "crumbs": [
+      "Home",
+      "Amenities"
+    ]
   },
   {
     "objectID": "amenities.html#lunch",
     "href": "amenities.html#lunch",
     "title": "Intro ML in Astrophysics",
     "section": "Lunch",
-    "text": "Lunch\nThe participants must take care of their own lunch expenses. In the university Mensa(s), it is possible to pay with a card.\n\nPlease bring a student-card (or similar document) in case this is requested at check-out. In case you do not have such a document, the organizers can provide a “guest certificate” upon request. More information\n\nThe closest place is “Mensa Lindenthal” (~5min walking).\nA Larger selection of food is offered in “Mensa Zülpicher Straße” (~12min walking)."
+    "text": "Lunch\nThe participants must take care of their own lunch expenses. In the university Mensa(s), it is possible to pay with a card.\n\nPlease bring a student-card (or similar document) in case this is requested at check-out. In case you do not have such a document, the organizers can provide a “guest certificate” upon request. More information\n\nThe closest place is “Mensa Lindenthal” (~5min walking).\nA Larger selection of food is offered in “Mensa Zülpicher Straße” (~12min walking).",
+    "crumbs": [
+      "Home",
+      "Amenities"
+    ]
   },
   {
     "objectID": "amenities.html#dinner",
     "href": "amenities.html#dinner",
     "title": "Intro ML in Astrophysics",
     "section": "Dinner",
-    "text": "Dinner\nJoin us for a delightful evening at Hellers Brauhaus on September 26th at 6:30 PM.\nExperience authentic German cuisine and freshly brewed beers in a warm and welcoming atmosphere.\n\n\n\nGoogle maps Hellers Brauhaus\n\n\n📍 Find on Google Maps"
+    "text": "Dinner\nJoin us for a delightful evening at Hellers Brauhaus on September 26th at 6:30 PM.\nExperience authentic German cuisine and freshly brewed beers in a warm and welcoming atmosphere.\n\n\n\nGoogle maps Hellers Brauhaus\n\n\n📍 Find on Google Maps",
+    "crumbs": [
+      "Home",
+      "Amenities"
+    ]
   },
   {
     "objectID": "handon1.html",
     "href": "handon1.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Open the MCMC Notebook:\nClick on the following link to access the MCMC (Markov Chain Monte Carlo) notebook:\nMCMC Google Colab Notebook\nMake a Copy:\nOnce the notebook opens, go to File &gt; Save a copy in Drive to save the notebook to your Google Drive. This allows you to edit and run the notebook independently."
+    "text": "Open the MCMC Notebook:\nClick on the following link to access the MCMC (Markov Chain Monte Carlo) notebook:\nMCMC Google Colab Notebook\nMake a Copy:\nOnce the notebook opens, go to File &gt; Save a copy in Drive to save the notebook to your Google Drive. This allows you to edit and run the notebook independently.",
+    "crumbs": [
+      "Home",
+      "Hand-on 1"
+    ]
   },
   {
     "objectID": "handon1.html#pca_cvcs",
@@ -515,41 +571,65 @@
     "href": "handon1.html#accessing-the-mcmc-notebook",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Open the MCMC Notebook:\nClick on the following link to access the MCMC (Markov Chain Monte Carlo) notebook:\nMCMC Google Colab Notebook\nMake a Copy:\nOnce the notebook opens, go to File &gt; Save a copy in Drive to save the notebook to your Google Drive. This allows you to edit and run the notebook independently."
+    "text": "Open the MCMC Notebook:\nClick on the following link to access the MCMC (Markov Chain Monte Carlo) notebook:\nMCMC Google Colab Notebook\nMake a Copy:\nOnce the notebook opens, go to File &gt; Save a copy in Drive to save the notebook to your Google Drive. This allows you to edit and run the notebook independently.",
+    "crumbs": [
+      "Home",
+      "Hand-on 1"
+    ]
   },
   {
     "objectID": "handon1.html#accessing-the-pca_cvcs-notebook",
     "href": "handon1.html#accessing-the-pca_cvcs-notebook",
     "title": "Intro ML in Astrophysics",
     "section": "Accessing the PCA_CVCs Notebook",
-    "text": "Accessing the PCA_CVCs Notebook\nTo access the PCA_CVCs (Principal Component Analysis - CVCs) notebook, follow these steps:\n\nOpen the PCA_CVCs Notebook:\n\nClick the following link to open the notebook: PCA_CVCs Google Colab Notebook .\n\nMake a Copy:\n\nTo create an editable version of the notebook, go to File &gt; Save a copy in Drive, just like you did with the MCMC notebook.\n\nDataset:\n\nUse the following information to access the dataset:\n\nDataset: dataset\nPassword: 123\n\n\nUpload the Dataset into Google Colab:\n\nDirectly upload:\n\n\nTo upload the dataset directly into Google Colab, you can use the following code:\n\nfrom google.colab import files\nuploaded = files.upload()  # Upload zip file only\nThis will prompt you to upload your dataset file (preferably in .zip format) directly from your local machine."
+    "text": "Accessing the PCA_CVCs Notebook\nTo access the PCA_CVCs (Principal Component Analysis - CVCs) notebook, follow these steps:\n\nOpen the PCA_CVCs Notebook:\n\nClick the following link to open the notebook: PCA_CVCs Google Colab Notebook .\n\nMake a Copy:\n\nTo create an editable version of the notebook, go to File &gt; Save a copy in Drive, just like you did with the MCMC notebook.\n\nDataset:\n\nUse the following information to access the dataset:\n\nDataset: dataset\nPassword: 123\n\n\nUpload the Dataset into Google Colab:\n\nDirectly upload:\n\n\nTo upload the dataset directly into Google Colab, you can use the following code:\n\nfrom google.colab import files\nuploaded = files.upload()  # Upload zip file only\nThis will prompt you to upload your dataset file (preferably in .zip format) directly from your local machine.",
+    "crumbs": [
+      "Home",
+      "Hand-on 1"
+    ]
   },
   {
     "objectID": "feedback.html",
     "href": "feedback.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Dear Workshop Participants,\nWe value your feedback on the Machine Learning in Astrophysics Workshop. Please take a few moments to complete our evaluation form by clicking on the link below:\nhttps://forms.gle/thmduDTHQkCzAYb59\nYour responses will help us improve future workshops. The form includes questions about:\n\nScientific content\nLocation and facilities\nOverall experience\n\nWe appreciate your time and honest feedback.\nThank you for your participation!"
+    "text": "Dear Workshop Participants,\nWe value your feedback on the Machine Learning in Astrophysics Workshop. Please take a few moments to complete our evaluation form by clicking on the link below:\nhttps://forms.gle/thmduDTHQkCzAYb59\nYour responses will help us improve future workshops. The form includes questions about:\n\nScientific content\nLocation and facilities\nOverall experience\n\nWe appreciate your time and honest feedback.\nThank you for your participation!",
+    "crumbs": [
+      "Home",
+      "Feedback"
+    ]
   },
   {
     "objectID": "handon1.html#instructions-to-delete-runtime-in-google-colab",
     "href": "handon1.html#instructions-to-delete-runtime-in-google-colab",
     "title": "Intro ML in Astrophysics",
     "section": "Instructions to Delete Runtime in Google Colab",
-    "text": "Instructions to Delete Runtime in Google Colab\n\nOpen Runtime Settings:\n\nAt the top of the Colab interface, click on Runtime in the menu bar.\n\nManage Sessions:\n\nFrom the dropdown, select Manage sessions. This will open a window showing all your active sessions.\n\nTerminate the Session:\n\nTo delete or reset the current runtime, click Terminate next to the active session. This will shut down the runtime and free up memory.\n\nConfirm Deletion:\n\nIf prompted, confirm your action to end the runtime session.\n\n\nOnce the runtime is terminated, all variables, environments, and states associated with that session will be cleared. You can start a new session by running your code again."
+    "text": "Instructions to Delete Runtime in Google Colab\n\nOpen Runtime Settings:\n\nAt the top of the Colab interface, click on Runtime in the menu bar.\n\nManage Sessions:\n\nFrom the dropdown, select Manage sessions. This will open a window showing all your active sessions.\n\nTerminate the Session:\n\nTo delete or reset the current runtime, click Terminate next to the active session. This will shut down the runtime and free up memory.\n\nConfirm Deletion:\n\nIf prompted, confirm your action to end the runtime session.\n\n\nOnce the runtime is terminated, all variables, environments, and states associated with that session will be cleared. You can start a new session by running your code again.",
+    "crumbs": [
+      "Home",
+      "Hand-on 1"
+    ]
   },
   {
     "objectID": "handon2.html",
     "href": "handon2.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Welcome to this hands-on session where we’ll build a neural network to predict Titanic survival using Python libraries such as pandas, PyTorch.\nOpen the Titanic Survival Prediction Notebook:\nTitanic Survival Prediction ."
+    "text": "Welcome to this hands-on session where we’ll build a neural network to predict Titanic survival using Python libraries such as pandas, PyTorch.\nOpen the Titanic Survival Prediction Notebook:\nTitanic Survival Prediction .",
+    "crumbs": [
+      "Home",
+      "Hand-on 2"
+    ]
   },
   {
     "objectID": "handon2.html#titanic-survival-prediction-with-pytorch",
     "href": "handon2.html#titanic-survival-prediction-with-pytorch",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "Welcome to this hands-on session where we’ll build a neural network to predict Titanic survival using Python libraries such as pandas, PyTorch.\nOpen the Titanic Survival Prediction Notebook:\nTitanic Survival Prediction ."
+    "text": "Welcome to this hands-on session where we’ll build a neural network to predict Titanic survival using Python libraries such as pandas, PyTorch.\nOpen the Titanic Survival Prediction Notebook:\nTitanic Survival Prediction .",
+    "crumbs": [
+      "Home",
+      "Hand-on 2"
+    ]
   }
 ]
