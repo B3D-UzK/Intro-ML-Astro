@@ -494,14 +494,14 @@
     "href": "handon1.html",
     "title": "Intro ML in Astrophysics",
     "section": "",
-    "text": "dataset:\nhttps://uni-koeln.sciebo.de/s/lyuNLLeZuwwZO7d"
+    "text": "Open the MCMC Notebook:\nClick on the following link to access the MCMC (Markov Chain Monte Carlo) notebook:\nMCMC Google Colab Notebook\nMake a Copy:\nOnce the notebook opens, go to File &gt; Save a copy in Drive to save the notebook to your Google Drive. This allows you to edit and run the notebook independently."
   },
   {
     "objectID": "handon1.html#pca_cvcs",
     "href": "handon1.html#pca_cvcs",
     "title": "Intro ML in Astrophysics",
-    "section": "",
-    "text": "dataset:\nhttps://uni-koeln.sciebo.de/s/lyuNLLeZuwwZO7d"
+    "section": "PCA_CVCs",
+    "text": "PCA_CVCs\ndataset:\nhttps://uni-koeln.sciebo.de/s/lyuNLLeZuwwZO7d\npassword:\nupload the zip file into google colab"
   },
   {
     "objectID": "handon1.html#mcmc",
@@ -509,5 +509,19 @@
     "title": "Intro ML in Astrophysics",
     "section": "MCMC",
     "text": "MCMC"
+  },
+  {
+    "objectID": "handon1.html#accessing-the-mcmc-notebook",
+    "href": "handon1.html#accessing-the-mcmc-notebook",
+    "title": "Intro ML in Astrophysics",
+    "section": "",
+    "text": "Open the MCMC Notebook:\nClick on the following link to access the MCMC (Markov Chain Monte Carlo) notebook:\nMCMC Google Colab Notebook\nMake a Copy:\nOnce the notebook opens, go to File &gt; Save a copy in Drive to save the notebook to your Google Drive. This allows you to edit and run the notebook independently."
+  },
+  {
+    "objectID": "handon1.html#accessing-the-pca_cvcs-notebook",
+    "href": "handon1.html#accessing-the-pca_cvcs-notebook",
+    "title": "Intro ML in Astrophysics",
+    "section": "Accessing the PCA_CVCs Notebook",
+    "text": "Accessing the PCA_CVCs Notebook\n\nOpen the PCA_CVCs Notebook:\nClick on the following link to access the PCA_CVCs (Principal Component Analysis - CVCs) notebook:\nPCA_CVCs Google Colab Notebook\nMake a Copy:\nSimilar to the MCMC notebook, go to File &gt; Save a copy in Drive to create your editable version.\ndataset:\ndataset\npassword:\nupload directly dataset into google colab"
   }
 ]
