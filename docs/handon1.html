@@ -170,8 +170,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#accessing-the-mcmc-notebook" id="toc-accessing-the-mcmc-notebook" class="nav-link active" data-scroll-target="#accessing-the-mcmc-notebook">Accessing the MCMC Notebook</a></li>
+  <li><a href="#accessing-the-mcmc-notebook" id="toc-accessing-the-mcmc-notebook" class="nav-link active" data-scroll-target="#accessing-the-mcmc-notebook">Accessing the MCMC Notebook</a>
+  <ul class="collapse">
   <li><a href="#accessing-the-pca_cvcs-notebook" id="toc-accessing-the-pca_cvcs-notebook" class="nav-link" data-scroll-target="#accessing-the-pca_cvcs-notebook">Accessing the PCA_CVCs Notebook</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -191,30 +193,40 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Once the notebook opens, go to <code>File</code> &gt; <code>Save a copy in Drive</code> to save the notebook to your Google Drive. This allows you to edit and run the notebook independently.</p></li>
 </ol>
 <hr>
-</section>
-<section id="accessing-the-pca_cvcs-notebook" class="level2">
-<h2 class="anchored" data-anchor-id="accessing-the-pca_cvcs-notebook">Accessing the PCA_CVCs Notebook</h2>
+<section id="accessing-the-pca_cvcs-notebook" class="level3">
+<h3 class="anchored" data-anchor-id="accessing-the-pca_cvcs-notebook">Accessing the PCA_CVCs Notebook</h3>
+<p>To access the PCA_CVCs (Principal Component Analysis - CVCs) notebook, follow these steps:</p>
 <ol type="1">
-<li><p><strong>Open the PCA_CVCs Notebook:</strong></p>
-<p>Click on the following link to access the PCA_CVCs (Principal Component Analysis - CVCs) notebook:</p>
-<p><a href="https://colab.research.google.com/drive/1oTotk8hjXf2jMu36SOQpojt_-NG41lXN?usp=sharing">PCA_CVCs Google Colab Notebook</a></p></li>
-<li><p><strong>Make a Copy:</strong></p>
-<p>Similar to the MCMC notebook, go to <code>File</code> &gt; <code>Save a copy in Drive</code> to create your editable version.</p></li>
-<li><p><strong>dataset:</strong></p>
-<p><a href="https://uni-koeln.sciebo.de/s/lyuNLLeZuwwZO7d">dataset</a></p>
-<p>password: 123</p></li>
-<li><p><strong>upload dataset into google colab</strong></p>
+<li><p><strong>Open the PCA_CVCs Notebook</strong>:</p>
+<ul>
+<li>Click the following link to open the notebook: [PCA_CVCs Google Colab Notebook].</li>
+</ul></li>
+<li><p><strong>Make a Copy</strong>:</p>
+<ul>
+<li>To create an editable version of the notebook, go to <code>File</code> &gt; <code>Save a copy in Drive</code>, just like you did with the MCMC notebook.</li>
+</ul></li>
+<li><p><strong>Dataset</strong>:</p>
+<ul>
+<li><p>Use the following information to access the dataset:</p>
+<ul>
+<li><p><strong>Dataset</strong>: <a href="https://uni-koeln.sciebo.de/s/lyuNLLeZuwwZO7d">dataset</a></p></li>
+<li><p><strong>Password</strong>: <code>123</code></p></li>
+</ul></li>
+</ul></li>
+<li><p><strong>Upload the Dataset into Google Colab</strong>:</p>
 <ol type="1">
 <li><p>Directly upload:</p>
 <p><img src="images/im1.png" class="img-fluid"></p>
 <p><img src="images/im2.png" class="img-fluid"></p></li>
-</ol></li>
-<li><p>Using function in google.colab</p></li>
+<li><p>To upload the dataset directly into Google Colab, you can use the following code:</p></li>
 </ol>
 <div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> google.colab <span class="im">import</span> files</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>uploaded <span class="op">=</span> files.upload() <span class="co">#upload zip file only</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>uploaded <span class="op">=</span> files.upload()  <span class="co"># Upload zip file only</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>This will prompt you to upload your dataset file (preferably in <code>.zip</code> format) directly from your local machine.</p></li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
