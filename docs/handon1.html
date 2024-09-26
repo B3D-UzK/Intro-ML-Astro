@@ -172,6 +172,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#accessing-the-mcmc-notebook" id="toc-accessing-the-mcmc-notebook" class="nav-link active" data-scroll-target="#accessing-the-mcmc-notebook">Accessing the MCMC Notebook</a></li>
   <li><a href="#accessing-the-pca_cvcs-notebook" id="toc-accessing-the-pca_cvcs-notebook" class="nav-link" data-scroll-target="#accessing-the-pca_cvcs-notebook">Accessing the PCA_CVCs Notebook</a></li>
+  <li><a href="#instructions-to-delete-runtime-in-google-colab" id="toc-instructions-to-delete-runtime-in-google-colab" class="nav-link" data-scroll-target="#instructions-to-delete-runtime-in-google-colab">Instructions to Delete Runtime in Google Colab</a></li>
   </ul>
 </nav>
     </div>
@@ -223,6 +224,28 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>uploaded <span class="op">=</span> files.upload()  <span class="co"># Upload zip file only</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>This will prompt you to upload your dataset file (preferably in <code>.zip</code> format) directly from your local machine.</p></li>
 </ol>
+</section>
+<section id="instructions-to-delete-runtime-in-google-colab" class="level2">
+<h2 class="anchored" data-anchor-id="instructions-to-delete-runtime-in-google-colab">Instructions to Delete Runtime in Google Colab</h2>
+<ol type="1">
+<li><strong>Open Runtime Settings</strong>:
+<ul>
+<li>At the top of the Colab interface, click on <strong>Runtime</strong> in the menu bar.</li>
+</ul></li>
+<li><strong>Manage Sessions</strong>:
+<ul>
+<li>From the dropdown, select <strong>Manage sessions</strong>. This will open a window showing all your active sessions.</li>
+</ul></li>
+<li><strong>Terminate the Session</strong>:
+<ul>
+<li>To delete or reset the current runtime, click <strong>Terminate</strong> next to the active session. This will shut down the runtime and free up memory.</li>
+</ul></li>
+<li><strong>Confirm Deletion</strong>:
+<ul>
+<li>If prompted, confirm your action to end the runtime session.</li>
+</ul></li>
+</ol>
+<p>Once the runtime is terminated, all variables, environments, and states associated with that session will be cleared. You can start a new session by running your code again.</p>
 
 
 </section>

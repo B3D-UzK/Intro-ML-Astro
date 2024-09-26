@@ -530,5 +530,12 @@
     "title": "Intro ML in Astrophysics",
     "section": "",
     "text": "Dear Workshop Participants,\nWe value your feedback on the Machine Learning in Astrophysics Workshop. Please take a few moments to complete our evaluation form by clicking on the link below:\nhttps://forms.gle/thmduDTHQkCzAYb59\nYour responses will help us improve future workshops. The form includes questions about:\n\nScientific content\nLocation and facilities\nOverall experience\n\nWe appreciate your time and honest feedback.\nThank you for your participation!"
+  },
+  {
+    "objectID": "handon1.html#instructions-to-delete-runtime-in-google-colab",
+    "href": "handon1.html#instructions-to-delete-runtime-in-google-colab",
+    "title": "Intro ML in Astrophysics",
+    "section": "Instructions to Delete Runtime in Google Colab",
+    "text": "Instructions to Delete Runtime in Google Colab\n\nOpen Runtime Settings:\n\nAt the top of the Colab interface, click on Runtime in the menu bar.\n\nManage Sessions:\n\nFrom the dropdown, select Manage sessions. This will open a window showing all your active sessions.\n\nTerminate the Session:\n\nTo delete or reset the current runtime, click Terminate next to the active session. This will shut down the runtime and free up memory.\n\nConfirm Deletion:\n\nIf prompted, confirm your action to end the runtime session.\n\n\nOnce the runtime is terminated, all variables, environments, and states associated with that session will be cleared. You can start a new session by running your code again."
   }
 ]
