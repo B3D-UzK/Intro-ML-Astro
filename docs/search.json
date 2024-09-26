@@ -537,5 +537,19 @@
     "title": "Intro ML in Astrophysics",
     "section": "Instructions to Delete Runtime in Google Colab",
     "text": "Instructions to Delete Runtime in Google Colab\n\nOpen Runtime Settings:\n\nAt the top of the Colab interface, click on Runtime in the menu bar.\n\nManage Sessions:\n\nFrom the dropdown, select Manage sessions. This will open a window showing all your active sessions.\n\nTerminate the Session:\n\nTo delete or reset the current runtime, click Terminate next to the active session. This will shut down the runtime and free up memory.\n\nConfirm Deletion:\n\nIf prompted, confirm your action to end the runtime session.\n\n\nOnce the runtime is terminated, all variables, environments, and states associated with that session will be cleared. You can start a new session by running your code again."
+  },
+  {
+    "objectID": "handon2.html",
+    "href": "handon2.html",
+    "title": "Intro ML in Astrophysics",
+    "section": "",
+    "text": "Welcome to this hands-on session where we’ll build a neural network to predict Titanic survival using Python libraries such as pandas, PyTorch. Follow the steps below to get started:\nOpen the Titanic Survival Prediction Notebook: - Click the following link to open the notebook: Titanic Survival Prediction Google Colab Notebook ."
+  },
+  {
+    "objectID": "handon2.html#titanic-survival-prediction-with-pytorch",
+    "href": "handon2.html#titanic-survival-prediction-with-pytorch",
+    "title": "Intro ML in Astrophysics",
+    "section": "",
+    "text": "Welcome to this hands-on session where we’ll build a neural network to predict Titanic survival using Python libraries such as pandas, PyTorch. Follow the steps below to get started:\nOpen the Titanic Survival Prediction Notebook: - Click the following link to open the notebook: Titanic Survival Prediction Google Colab Notebook ."
   }
 ]
