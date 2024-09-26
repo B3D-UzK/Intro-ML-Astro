@@ -522,6 +522,13 @@
     "href": "handon1.html#accessing-the-pca_cvcs-notebook",
     "title": "Intro ML in Astrophysics",
     "section": "Accessing the PCA_CVCs Notebook",
-    "text": "Accessing the PCA_CVCs Notebook\n\nOpen the PCA_CVCs Notebook:\nClick on the following link to access the PCA_CVCs (Principal Component Analysis - CVCs) notebook:\nPCA_CVCs Google Colab Notebook\nMake a Copy:\nSimilar to the MCMC notebook, go to File &gt; Save a copy in Drive to create your editable version.\ndataset:\ndataset\npassword:\nupload directly dataset into google colab"
+    "text": "Accessing the PCA_CVCs Notebook\n\nOpen the PCA_CVCs Notebook:\nClick on the following link to access the PCA_CVCs (Principal Component Analysis - CVCs) notebook:\nPCA_CVCs Google Colab Notebook\nMake a Copy:\nSimilar to the MCMC notebook, go to File &gt; Save a copy in Drive to create your editable version.\ndataset:\ndataset\npassword:\nupload dataset into google colab\n\nDirectly upload:\n\n\n\nUsing function in google.colab\n\nfrom google.colab import files\nuploaded = files.upload() #upload zip file only"
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "Intro ML in Astrophysics",
+    "section": "",
+    "text": "Dear Workshop Participants,\nWe value your feedback on the Machine Learning in Astrophysics Workshop. Please take a few moments to complete our evaluation form by clicking on the link below:\nhttps://forms.gle/thmduDTHQkCzAYb59\nYour responses will help us improve future workshops. The form includes questions about:\n\nScientific content\nLocation and facilities\nOverall experience\n\nWe appreciate your time and honest feedback.\nThank you for your participation!"
   }
 ]
