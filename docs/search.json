@@ -631,5 +631,16 @@
       "Home",
       "Hand-on 2"
     ]
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Intro ML in Astrophysics",
+    "section": "",
+    "text": "MCMC\nPCA\nData Management",
+    "crumbs": [
+      "Home",
+      "Presentations"
+    ]
   }
 ]
